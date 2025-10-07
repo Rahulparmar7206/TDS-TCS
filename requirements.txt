@@ -1,3 +1,4 @@
+pdfplumber
 flask
 pandas
 openpyxl
@@ -5,3 +6,4 @@ PyPDF2
 werkzeug
 numpy
 gunicorn
+
