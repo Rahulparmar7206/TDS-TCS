@@ -1,0 +1,16 @@
+[
+  {
+    "section": "194T",
+    "description": "Payment to Partner",
+    "type": "TDS",
+    "threshold": 0,
+    "per_bill_limit": null,
+    "rate": 10,
+    "keywords": [
+      "Interest to Partner"
+    ],
+    "search_in": "debit",
+    "priority": 1,
+    "enabled": true
+  }
+]
