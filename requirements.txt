@@ -1,6 +1,7 @@
-flask==3.0.0
-pandas==2.1.4
-openpyxl==3.1.2
-PyPDF2==3.0.1
-werkzeug==3.0.1
-numpy==1.26.2
+flask
+pandas
+openpyxl
+PyPDF2
+werkzeug
+numpy
+gunicorn
